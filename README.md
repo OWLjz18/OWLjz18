@@ -36,7 +36,7 @@ Acá les dejo mis estadisticas!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OWLjz18&count_private=true&show_icons=true&theme=aura" alt="Estadisticas generales"><br>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OWLjz18&hide=procfile&layout=compact&theme=aura" alt="Lenguajes mas usados"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OWLjz18&hide=procfile&layout=compact&langs_count=6&theme=aura" alt="Lenguajes mas usados"><br>
 </div>
 
 Y mis dos repos favoritos:
@@ -54,4 +54,4 @@ Por último, si desea ponerse en contacto, puede hacerlo vía <a href="mailto:ow
   <img src="./gifs/pikachu-happy.gif" alt="Pikachu happy">
 </div>
 
-PD: @anuragzra gracias!! => [github-readme-stats](https://github.com/anuragzra/github-readme-stats)
+PD: @anuraghazra gracias!! => [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
