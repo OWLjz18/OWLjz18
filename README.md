@@ -54,4 +54,4 @@ Por último, si desea ponerse en contacto, puede hacerlo vía <a href="mailto:ow
   <img src="./gifs/pikachu-happy.gif" alt="Pikachu happy">
 </div>
 
-PD: @anuraghazra gracias!! => [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+PD: [@anuraghazra](https://github.com/anuraghazra) gracias!! => [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
