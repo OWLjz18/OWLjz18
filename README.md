@@ -42,8 +42,8 @@ Acá les dejo mis estadisticas!
 Y mis dos repos favoritos:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWLjz18&repo=iconejz&theme=aura&show_owner=true" alt="IconeJz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWLjz18&repo=dirnamejz&theme=aura&show_owner=true" alt="IconeJzDoc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWLjz18&repo=iconejz&theme=aura&show_owner=true" alt="repositorio de IconeJz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWLjz18&repo=dirnamejz&theme=aura&show_owner=true" alt="repositorio de dirnamejz">
 </div>
 
 Por último, si desea ponerse en contacto, puede hacerlo vía <a href="mailto:owl.jz18@gmail.com">email</a>.
